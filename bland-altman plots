@@ -1,0 +1,7 @@
+Code is included to generate Bland- Altman plots with non-linear trend for bias (green solid line) including confidence intervals (grey shading) 
+using generalized additive models to compare artificial light at night measurements for 
+(a) visual light from the Defense Meteorological Program Operational Linescan System (DMSP-OLS) 2011 versus visual light from the International Space Station (ISS, 2012 Madrid; 2013 Barcelona) and 
+(b) visual light from the Visible Infrared Imaging Radiometer Suite (VIIRS) 2013 versus visual light from the ISS (2012 Madrid; 2013 Barcelona). 
+The black dots represent data values for each participant. 
+The limits of agreement (average difference ± 1.96 standard deviation of the standardized difference) are shown by the red dashed lines in each of the figures. 
+The limits of agreement for the DMSP-OLS versus ISS visual measurements was 2.90 (95%CI 2.80, 3.01), while for the VIIRS versus ISS visual it was 2.32 (2.24, 2.41). 
